@@ -15,13 +15,22 @@
 ![task2_1](images/Lab2/Task2/task2_1.png)
 ![task2_2](images/Lab2/Task2/task2_2.png)
 ![task2_3](images/Lab2/Task2/task2_3.png)
-<video src="images/Lab2/Task2/task2_4.mp4" width="320" height="240" controls></video>
+
+
+
+https://github.com/user-attachments/assets/4b456ec4-bb08-4958-8522-67296e74f71a
+
+
 
 ## Challenge
 
 ![NIOSIIIDEMsg2](images/Lab2/Challenge/challenge_1.png)
 
-<video src="images/Lab2/Challenge/challenge_2.mp4" width="848" height="480" controls></video>
+
+
+https://github.com/user-attachments/assets/e0f7734c-381c-4376-9534-f17ca019c4f4
+
+
 
 ```C
 #include <sys/alt_stdio.h>
