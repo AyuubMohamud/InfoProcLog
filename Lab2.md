@@ -21,7 +21,7 @@
 
 ![NIOSIIIDEMsg2](images/Lab2/Challenge/challenge_1.png)
 
-<video src="images/Lab2/Challenge/challenge_2.mp4" width="320" height="240" controls></video>
+<video src="images/Lab2/Challenge/challenge_2.mp4" width="848" height="480" controls></video>
 
 ```C
 #include <sys/alt_stdio.h>
