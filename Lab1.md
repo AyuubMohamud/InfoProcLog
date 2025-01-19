@@ -1,10 +1,12 @@
 # Lab 1
 
 ## Table of Contents
+
 - [Task 1](#task-1)
 - [Task 2](#task-2)
 
 ## Task 1
+
 ![task1_1](images/Lab1/Task1/task1_1.png)
 ![task1_2](images/Lab1/Task1/task1_2.png)
 ![task1_3](images/Lab1/Task1/task1_3.png)
@@ -24,6 +26,7 @@
 ![task1_17](images/Lab1/Task1/task1_17.jpg)
 
 ## Task 2
+
 ![task2_1](images/Lab1/Task2/task2_1.png)
 ![task2_2](images/Lab1/Task2/task2_2.png)
 ![task2_3](images/Lab1/Task2/task2_3.png)
