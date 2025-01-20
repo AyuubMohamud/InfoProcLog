@@ -54,10 +54,16 @@ float fir_filter(alt_32 sampl_value) {
 ```
 
 For an N-tap moving average filter of 5:
-place video here
+
+
+https://github.com/user-attachments/assets/854b706f-c43b-497c-9b44-fb3cecd48a61
+
 
 For an N-tap moving average filter of 50:
-place video here
+
+
+https://github.com/user-attachments/assets/a63b6404-4af0-4473-bfbe-6f862352e9f3
+
 
 For an N-tap Low Pass Filter in the example:
 
@@ -80,6 +86,8 @@ float lpf_fir_filter(alt_32 sampl_value) {
     return output;
 }
 ```
-place video here
+
+https://github.com/user-attachments/assets/daa131d3-2252-4ace-9928-2fa2d02b0a40
+
 
 ## Challenge: Optimise FIR filter
