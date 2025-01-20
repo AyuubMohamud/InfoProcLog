@@ -5,6 +5,7 @@
 - [Task 1](#task-1)
 - [Task 2](#task-2)
 - [Challenge](#challenge)
+- [Code Appendix](#code-appendix)
 
 ## Task 1
 
@@ -32,6 +33,8 @@ https://github.com/user-attachments/assets/e0f7734c-381c-4376-9534-f17ca019c4f4
 
 
 
+
+## Code Appendix
 
 ```C
 #include <sys/alt_stdio.h>
