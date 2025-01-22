@@ -92,8 +92,8 @@ float lpf_fir_filter(alt_32 sampl_value) {
 https://github.com/user-attachments/assets/daa131d3-2252-4ace-9928-2fa2d02b0a40
 
 For an N tap filter per the following:
-[!Matlab:(](images/Lab3/Task3/task3_1.png)
-[!MoreMatlab:(](images/Lab3/Task3/task3_2.png)
+![Matlab:(](images/Lab3/Task3/task3_1.png)
+![MoreMatlab:(](images/Lab3/Task3/task3_2.png)
 
 ```C
 float array_of_coeffs[NO_OF_TAPS] = {
