@@ -110,7 +110,11 @@ float array_of_coeffs[NO_OF_TAPS] = {
 };
 ```
 
-Add video here
+
+https://github.com/user-attachments/assets/6dc6293c-8827-479d-8a82-9c2a6af9422d
+
+
+
 
 ## Challenge: Optimise FIR filter
 
@@ -124,6 +128,10 @@ Hence going for a 32-bit multiply is the only solution possible. Then came the q
 ![Challenge_1](images/Lab3/Challenge/challenge_1.png)
 
 ![Challenge_2](images/Lab3/Challenge/challenge_2.png)
+
+
+https://github.com/user-attachments/assets/cb548ada-8750-404d-b171-e48428974f03
+
 
 ## Code appendix
 
